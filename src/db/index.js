@@ -1,6 +1,6 @@
 var fs = require("fs");
-var faker = require("faker/locale/en");
-faker.locale = "es";
+var faker = require("faker/locale/en_US");
+faker.locale = "en_US";
 
 let employees = [];
 
